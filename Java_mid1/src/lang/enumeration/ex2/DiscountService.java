@@ -1,7 +1,5 @@
 package lang.enumeration.ex2;
 
-import lang.enumeration.ex1.StringGrade;
-
 public class DiscountService {
 
     public int discount(ClassGrade classGrade, int price){
